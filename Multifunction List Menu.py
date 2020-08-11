@@ -22,8 +22,7 @@
 
 __author__ = 'Chrisanto'
 __date__ = '$Date: 2020-08-11 $'
-__source__ = '''http://pyparsing.wikispaces.com/file/view/fourFn.py
-http://pyparsing.wikispaces.com/message/view/home/15549426
+__source__ = '''https://github.com/Clovinlee/Python/blob/master/CChris.py
 '''
 
 
